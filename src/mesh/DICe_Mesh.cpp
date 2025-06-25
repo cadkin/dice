@@ -43,6 +43,8 @@
 
 #include <Teuchos_Tuple.hpp>
 
+#include <mpi.h>
+
 namespace DICe {
 namespace mesh {
 
