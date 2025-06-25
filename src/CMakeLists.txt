@@ -24,7 +24,7 @@ SET(DICE_SOURCES
   ./fft/DICe_FFT.cpp
   ./fft/kiss_fft.c
   ./mesh/DICe_MeshEnums.cpp
-  ./mesh/DICe_Mesh.cpp  
+  ./mesh/DICe_Mesh.cpp
   )
 
 
